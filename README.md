@@ -1,0 +1,2 @@
+# rotary
+Licencias de verificación 
